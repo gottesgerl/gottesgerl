@@ -1,7 +1,8 @@
-## Hi there 👋
-
+## About me
+- I’m currently working on huxel - an UI extension to SideFx` Houdini 
+- I’m currently learning how to shut up and listen
+- Reach me: hannes@splashfx.de
 <!--
-**gottesgerl/gottesgerl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
